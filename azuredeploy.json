@@ -46,6 +46,7 @@
       }
     },
     {
+      "kind": "functionapp",
       "apiVersion":"2015-04-01",
       "name":"[parameters('siteName')]",
       "type":"Microsoft.Web/sites",
